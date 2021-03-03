@@ -1,1 +1,4 @@
-console.log('hello');
+
+$(window).load(function() {
+$('.flexslider').flexslider();
+});
